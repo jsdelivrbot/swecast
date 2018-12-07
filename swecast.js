@@ -609,7 +609,7 @@ if (!window.SweCast) {
 				});
 			}
 
-			$('<img src="https://cdn.rawgit.com/googlecast/CastHelloVideo-chrome/master/images/cast_icon_idle.png"/>')
+			$('<img src="https://cdn.jsdelivr.net/gh/googlecast/CastHelloVideo-chrome/images/cast_icon_idle.png"/>')
 			.css({
 				width: '32px',
 				height: '32px',
